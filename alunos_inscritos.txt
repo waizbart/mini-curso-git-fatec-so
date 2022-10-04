@@ -1,0 +1,25 @@
+Nomes dos alunos inscritos: 
+
+Afonso Ribes - RA:
+Ana Marcondes - RA:
+André Poles - RA:
+Caique Ferraz - RA:
+Camila Queiroz - RA:
+Fabio da Silva - RA:
+Felipe Bento - RA:
+Fernando Lima - RA:
+Guilherme Santos - RA:
+Gustavo dos Anjos - RA:
+Jesley Sales - RA:
+João Dias - RA:
+João de Souza - RA:
+João Oliveira - RA:
+Lauri Biral - RA:
+Lívia Camargo - RA:
+Lucas Monaco - RA:
+Lucas Freitas - RA:
+Mariana Parducci - RA:
+Mateus Alves - RA:
+Nicole dos Santos - RA:
+Rebeca Santos - RA:
+Sheila dos Santos - RA:
