@@ -1,6 +1,6 @@
 Nomes dos alunos inscritos: 
 
-Afonso Ribes - RA:
+Afonso Ribes - RA:0030482221021
 Ana Marcondes - RA:
 André Poles - RA:
 Caique Ferraz - RA:
