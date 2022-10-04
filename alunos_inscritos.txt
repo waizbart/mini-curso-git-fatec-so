@@ -4,7 +4,7 @@ Afonso Ribes - RA:0030482221021
 Ana Marcondes - RA:
 André Poles - RA:
 Caique Ferraz - RA:
-Camila Queiroz - RA:
+Camila Queiroz - RA: 0030482221008
 Fabio da Silva - RA:
 Felipe Bento - RA:
 Fernando Lima - RA:
@@ -26,6 +26,6 @@ Lucas Freitas - RA: 0030481823004
 Mariana Parducci - RA:
 Mateus Alves - RA: 0030482211023
 Nicole dos Santos - RA:
-Rebeca Santos - RA:
+Rebeca Santos - RA: 0030482211040
 Sheila dos Santos - RA:
 Guilherme Waizbart - RA: não tem
