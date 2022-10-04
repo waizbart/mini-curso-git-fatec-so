@@ -8,12 +8,17 @@ Camila Queiroz - RA: 0030482221008
 Fabio da Silva - RA:
 Felipe Bento - RA:
 Fernando Lima - RA:
+<<<<<<< HEAD
+Guilherme Santos - RA: 0030482011049
+Gustavo dos Anjos - RA:
+=======
 Guilherme Santos - RA:
 <<<<<<< HEAD
 Gustavo dos Anjos - RA:
 Jesley Sales - RA: 0030482221023
 =======
 Gustavo dos Anjos - RA: 0030481913019
+>>>>>>> e6ddd80aef2e73b992b5c856f2ca80607ea7645f
 Jesley Sales - RA:
 <<<<<<< HEAD
 João Dias - RA: 0030482211006
