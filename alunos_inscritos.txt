@@ -1,30 +1,43 @@
 Nomes dos alunos inscritos: 
 
-Afonso Ribes - RA:
+Afonso Ribes - RA:0030482221021
 Ana Marcondes - RA:
 André Poles - RA:
 Caique Ferraz - RA:
-Camila Queiroz - RA:
+Camila Queiroz - RA: 0030482221008
 Fabio da Silva - RA:
 Felipe Bento - RA:
 Fernando Lima - RA:
 Guilherme Santos - RA:
+<<<<<<< HEAD
+Gustavo dos Anjos - RA:
+Jesley Sales - RA: 0030482221023
+=======
 Gustavo dos Anjos - RA: 0030481913019
 Jesley Sales - RA:
+<<<<<<< HEAD
+João Dias - RA: 0030482211006
+=======
+>>>>>>> 5ef19764f36adf69a44fd639291bcd8927e57a84
 João Dias - RA:
+>>>>>>> 28b83636e9533bc61ce44858fbb0236d6c4daf5e
 João de Souza - RA:
-João Oliveira - RA:
+João Oliveira - RA: 0030482111024
 Lauri Biral - RA:
-Lívia Camargo - RA:
+Lívia Camargo - RA: 0030482221001
 Lucas Monaco - RA:
-Lucas Freitas - RA:
+Lucas Freitas - RA: 0030481823004
 Mariana Parducci - RA:
-Mateus Alves - RA:
+Mateus Alves - RA: 0030482211023
 Nicole dos Santos - RA:
+<<<<<<< HEAD
 Rebeca Santos - RA:
 <<<<<<< HEAD
 Sheila dos Santos - RA: 0030482111038
 =======
+=======
+Rebeca Santos - RA: 0030482211040
+>>>>>>> f096d96bec395590251e9f0edaaf9b103f8f4ce8
 Sheila dos Santos - RA:
 Guilherme Waizbart - RA: não tem
 >>>>>>> e6ddd80aef2e73b992b5c856f2ca80607ea7645f
