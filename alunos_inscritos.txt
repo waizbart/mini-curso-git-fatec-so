@@ -8,8 +8,13 @@ Camila Queiroz - RA:
 Fabio da Silva - RA:
 Felipe Bento - RA:
 Fernando Lima - RA:
+<<<<<<< HEAD
 Guilherme Santos - RA: 0030482011049
 Gustavo dos Anjos - RA:
+=======
+Guilherme Santos - RA:
+Gustavo dos Anjos - RA: 0030481913019
+>>>>>>> e6ddd80aef2e73b992b5c856f2ca80607ea7645f
 Jesley Sales - RA:
 João Dias - RA:
 João de Souza - RA:
@@ -23,3 +28,4 @@ Mateus Alves - RA:
 Nicole dos Santos - RA:
 Rebeca Santos - RA:
 Sheila dos Santos - RA:
+Guilherme Waizbart - RA: não tem
