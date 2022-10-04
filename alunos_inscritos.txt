@@ -9,15 +9,20 @@ Fabio da Silva - RA:
 Felipe Bento - RA:
 Fernando Lima - RA:
 Guilherme Santos - RA:
+<<<<<<< HEAD
 Gustavo dos Anjos - RA:
 Jesley Sales - RA: 0030482221023
+=======
+Gustavo dos Anjos - RA: 0030481913019
+Jesley Sales - RA:
+>>>>>>> 5ef19764f36adf69a44fd639291bcd8927e57a84
 João Dias - RA:
 João de Souza - RA:
 João Oliveira - RA:
 Lauri Biral - RA:
 Lívia Camargo - RA:
 Lucas Monaco - RA:
-Lucas Freitas - RA:
+Lucas Freitas - RA: 0030481823004
 Mariana Parducci - RA:
 Mateus Alves - RA:
 Nicole dos Santos - RA:
